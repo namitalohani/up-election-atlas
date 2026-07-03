@@ -1,1 +1,30 @@
-
+[
+  {
+    "party_id": "BJP",
+    "name": "Bharatiya Janata Party",
+    "abbreviation": "BJP",
+    "alliance": "NDA",
+    "eci_status": "National Party"
+  },
+  {
+    "party_id": "SP",
+    "name": "Samajwadi Party",
+    "abbreviation": "SP",
+    "alliance": "INDIA",
+    "eci_status": "State Party"
+  },
+  {
+    "party_id": "BSP",
+    "name": "Bahujan Samaj Party",
+    "abbreviation": "BSP",
+    "alliance": null,
+    "eci_status": "National Party"
+  },
+  {
+    "party_id": "INC",
+    "name": "Indian National Congress",
+    "abbreviation": "INC",
+    "alliance": "INDIA",
+    "eci_status": "National Party"
+  }
+]
