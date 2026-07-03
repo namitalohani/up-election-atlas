@@ -1,1 +1,8 @@
-
+[
+  {"region_id":"WEST","name":"Western Uttar Pradesh"},
+  {"region_id":"ROHILKHAND","name":"Rohilkhand"},
+  {"region_id":"BRAJ","name":"Braj"},
+  {"region_id":"KANPUR_BUNDELKHAND","name":"Kanpur-Bundelkhand"},
+  {"region_id":"AWADH","name":"Awadh"},
+  {"region_id":"PURVANCHAL","name":"Purvanchal"}
+]
