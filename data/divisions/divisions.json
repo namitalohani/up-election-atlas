@@ -1,1 +1,32 @@
-
+{
+  "table": "divisions",
+  "meta": {
+    "source": "Administrative divisions of Uttar Pradesh",
+    "publisher": "Wikipedia (cross-checked against UPSSSC exam reference compilations)",
+    "url": "https://en.wikipedia.org/wiki/Administrative_divisions_of_Uttar_Pradesh",
+    "retrieved_date": "2026-07-04",
+    "reliability_tier": 2,
+    "confidence": 0.95,
+    "notes": "Stable since 2000 (post-Uttarakhand bifurcation). Division-to-district counts cross-validated against three independent sources and confirmed to sum to 75. Region field (Awadh/Purvanchal/Bundelkhand/Rohilkhand/Western UP) is an INFORMAL cultural-political grouping, not an official government category — do not treat with the same confidence as division/district facts."
+  },
+  "records": [
+    { "division_id": "up-div-agra", "division_name": "Agra", "headquarters": "Agra", "region_conventional": "Western UP" },
+    { "division_id": "up-div-aligarh", "division_name": "Aligarh", "headquarters": "Aligarh", "region_conventional": "Western UP" },
+    { "division_id": "up-div-prayagraj", "division_name": "Prayagraj", "headquarters": "Prayagraj", "region_conventional": "Awadh" },
+    { "division_id": "up-div-azamgarh", "division_name": "Azamgarh", "headquarters": "Azamgarh", "region_conventional": "Purvanchal" },
+    { "division_id": "up-div-bareilly", "division_name": "Bareilly", "headquarters": "Bareilly", "region_conventional": "Rohilkhand" },
+    { "division_id": "up-div-basti", "division_name": "Basti", "headquarters": "Basti", "region_conventional": "Purvanchal" },
+    { "division_id": "up-div-chitrakoot", "division_name": "Chitrakoot", "headquarters": "Banda", "region_conventional": "Bundelkhand", "notes": "Headquarters is Banda, not Chitrakoot town — frequent source of confusion." },
+    { "division_id": "up-div-devipatan", "division_name": "Devipatan", "headquarters": "Gonda", "region_conventional": "Awadh", "notes": "Named after the Devipatan temple in Balrampur; headquarters is Gonda, not Devipatan." },
+    { "division_id": "up-div-ayodhya", "division_name": "Ayodhya", "headquarters": "Ayodhya", "region_conventional": "Awadh", "notes": "Formerly Faizabad division; renamed following the district's 2018 renaming." },
+    { "division_id": "up-div-gorakhpur", "division_name": "Gorakhpur", "headquarters": "Gorakhpur", "region_conventional": "Purvanchal" },
+    { "division_id": "up-div-jhansi", "division_name": "Jhansi", "headquarters": "Jhansi", "region_conventional": "Bundelkhand" },
+    { "division_id": "up-div-kanpur", "division_name": "Kanpur", "headquarters": "Kanpur", "region_conventional": "Awadh" },
+    { "division_id": "up-div-lucknow", "division_name": "Lucknow", "headquarters": "Lucknow", "region_conventional": "Awadh" },
+    { "division_id": "up-div-meerut", "division_name": "Meerut", "headquarters": "Meerut", "region_conventional": "Western UP" },
+    { "division_id": "up-div-mirzapur", "division_name": "Mirzapur", "headquarters": "Mirzapur", "region_conventional": "Purvanchal" },
+    { "division_id": "up-div-moradabad", "division_name": "Moradabad", "headquarters": "Moradabad", "region_conventional": "Rohilkhand" },
+    { "division_id": "up-div-saharanpur", "division_name": "Saharanpur", "headquarters": "Saharanpur", "region_conventional": "Western UP" },
+    { "division_id": "up-div-varanasi", "division_name": "Varanasi", "headquarters": "Varanasi", "region_conventional": "Purvanchal" }
+  ]
+}
