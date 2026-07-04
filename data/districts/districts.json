@@ -1,1 +1,107 @@
+{
+  "table": "districts",
+  "meta": {
+    "source": "List of districts of Uttar Pradesh / Administrative divisions of Uttar Pradesh",
+    "publisher": "Wikipedia (cross-checked against UPSSSC exam reference compilations)",
+    "url": "https://en.wikipedia.org/wiki/List_of_districts_of_Uttar_Pradesh",
+    "retrieved_date": "2026-07-04",
+    "reliability_tier": 2,
+    "confidence": 0.95,
+    "notes": "75 districts confirmed stable since 2011 (creation of Hapur, Shamli, Sambhal, Amroha). The temporary Maha Kumbh Mela district (declared Dec 2024) is excluded — it was merged back into Prayagraj and was never a standing administrative district."
+  },
+  "records": [
+    { "district_id": "up-dist-agra", "district_name": "Agra", "division_id": "up-div-agra" },
+    { "district_id": "up-dist-firozabad", "district_name": "Firozabad", "division_id": "up-div-agra" },
+    { "district_id": "up-dist-mainpuri", "district_name": "Mainpuri", "division_id": "up-div-agra" },
+    { "district_id": "up-dist-mathura", "district_name": "Mathura", "division_id": "up-div-agra" },
+
+    { "district_id": "up-dist-aligarh", "district_name": "Aligarh", "division_id": "up-div-aligarh" },
+    { "district_id": "up-dist-etah", "district_name": "Etah", "division_id": "up-div-aligarh" },
+    { "district_id": "up-dist-hathras", "district_name": "Hathras", "division_id": "up-div-aligarh" },
+    { "district_id": "up-dist-kasganj", "district_name": "Kasganj", "division_id": "up-div-aligarh" },
+
+    { "district_id": "up-dist-prayagraj", "district_name": "Prayagraj", "division_id": "up-div-prayagraj", "notes": "Formerly Allahabad, renamed 2018" },
+    { "district_id": "up-dist-fatehpur", "district_name": "Fatehpur", "division_id": "up-div-prayagraj" },
+    { "district_id": "up-dist-kaushambi", "district_name": "Kaushambi", "division_id": "up-div-prayagraj" },
+    { "district_id": "up-dist-pratapgarh", "district_name": "Pratapgarh", "division_id": "up-div-prayagraj" },
+
+    { "district_id": "up-dist-azamgarh", "district_name": "Azamgarh", "division_id": "up-div-azamgarh" },
+    { "district_id": "up-dist-ballia", "district_name": "Ballia", "division_id": "up-div-azamgarh" },
+    { "district_id": "up-dist-mau", "district_name": "Mau", "division_id": "up-div-azamgarh" },
+
+    { "district_id": "up-dist-badaun", "district_name": "Badaun", "division_id": "up-div-bareilly" },
+    { "district_id": "up-dist-bareilly", "district_name": "Bareilly", "division_id": "up-div-bareilly" },
+    { "district_id": "up-dist-pilibhit", "district_name": "Pilibhit", "division_id": "up-div-bareilly" },
+    { "district_id": "up-dist-shahjahanpur", "district_name": "Shahjahanpur", "division_id": "up-div-bareilly" },
+
+    { "district_id": "up-dist-basti", "district_name": "Basti", "division_id": "up-div-basti" },
+    { "district_id": "up-dist-sant-kabir-nagar", "district_name": "Sant Kabir Nagar", "division_id": "up-div-basti" },
+    { "district_id": "up-dist-siddharthnagar", "district_name": "Siddharthnagar", "division_id": "up-div-basti" },
+
+    { "district_id": "up-dist-banda", "district_name": "Banda", "division_id": "up-div-chitrakoot" },
+    { "district_id": "up-dist-chitrakoot", "district_name": "Chitrakoot", "division_id": "up-div-chitrakoot" },
+    { "district_id": "up-dist-hamirpur", "district_name": "Hamirpur", "division_id": "up-div-chitrakoot" },
+    { "district_id": "up-dist-mahoba", "district_name": "Mahoba", "division_id": "up-div-chitrakoot" },
+
+    { "district_id": "up-dist-bahraich", "district_name": "Bahraich", "division_id": "up-div-devipatan" },
+    { "district_id": "up-dist-balrampur", "district_name": "Balrampur", "division_id": "up-div-devipatan" },
+    { "district_id": "up-dist-gonda", "district_name": "Gonda", "division_id": "up-div-devipatan" },
+    { "district_id": "up-dist-shravasti", "district_name": "Shravasti", "division_id": "up-div-devipatan" },
+
+    { "district_id": "up-dist-ambedkar-nagar", "district_name": "Ambedkar Nagar", "division_id": "up-div-ayodhya" },
+    { "district_id": "up-dist-amethi", "district_name": "Amethi", "division_id": "up-div-ayodhya" },
+    { "district_id": "up-dist-barabanki", "district_name": "Barabanki", "division_id": "up-div-ayodhya" },
+    { "district_id": "up-dist-ayodhya", "district_name": "Ayodhya", "division_id": "up-div-ayodhya", "notes": "Formerly Faizabad, renamed 2018" },
+    { "district_id": "up-dist-sultanpur", "district_name": "Sultanpur", "division_id": "up-div-ayodhya" },
+
+    { "district_id": "up-dist-deoria", "district_name": "Deoria", "division_id": "up-div-gorakhpur" },
+    { "district_id": "up-dist-gorakhpur", "district_name": "Gorakhpur", "division_id": "up-div-gorakhpur" },
+    { "district_id": "up-dist-kushinagar", "district_name": "Kushinagar", "division_id": "up-div-gorakhpur" },
+    { "district_id": "up-dist-maharajganj", "district_name": "Maharajganj", "division_id": "up-div-gorakhpur" },
+
+    { "district_id": "up-dist-jalaun", "district_name": "Jalaun", "division_id": "up-div-jhansi" },
+    { "district_id": "up-dist-jhansi", "district_name": "Jhansi", "division_id": "up-div-jhansi" },
+    { "district_id": "up-dist-lalitpur", "district_name": "Lalitpur", "division_id": "up-div-jhansi" },
+
+    { "district_id": "up-dist-auraiya", "district_name": "Auraiya", "division_id": "up-div-kanpur" },
+    { "district_id": "up-dist-etawah", "district_name": "Etawah", "division_id": "up-div-kanpur" },
+    { "district_id": "up-dist-farrukhabad", "district_name": "Farrukhabad", "division_id": "up-div-kanpur" },
+    { "district_id": "up-dist-kannauj", "district_name": "Kannauj", "division_id": "up-div-kanpur" },
+    { "district_id": "up-dist-kanpur-dehat", "district_name": "Kanpur Dehat", "division_id": "up-div-kanpur" },
+    { "district_id": "up-dist-kanpur-nagar", "district_name": "Kanpur Nagar", "division_id": "up-div-kanpur" },
+
+    { "district_id": "up-dist-hardoi", "district_name": "Hardoi", "division_id": "up-div-lucknow" },
+    { "district_id": "up-dist-lakhimpur-kheri", "district_name": "Lakhimpur Kheri", "division_id": "up-div-lucknow" },
+    { "district_id": "up-dist-lucknow", "district_name": "Lucknow", "division_id": "up-div-lucknow" },
+    { "district_id": "up-dist-raebareli", "district_name": "Raebareli", "division_id": "up-div-lucknow" },
+    { "district_id": "up-dist-sitapur", "district_name": "Sitapur", "division_id": "up-div-lucknow" },
+    { "district_id": "up-dist-unnao", "district_name": "Unnao", "division_id": "up-div-lucknow" },
+
+    { "district_id": "up-dist-baghpat", "district_name": "Baghpat", "division_id": "up-div-meerut" },
+    { "district_id": "up-dist-bulandshahr", "district_name": "Bulandshahr", "division_id": "up-div-meerut" },
+    { "district_id": "up-dist-gautam-buddha-nagar", "district_name": "Gautam Buddha Nagar", "division_id": "up-div-meerut" },
+    { "district_id": "up-dist-ghaziabad", "district_name": "Ghaziabad", "division_id": "up-div-meerut" },
+    { "district_id": "up-dist-hapur", "district_name": "Hapur", "division_id": "up-div-meerut" },
+    { "district_id": "up-dist-meerut", "district_name": "Meerut", "division_id": "up-div-meerut" },
+
+    { "district_id": "up-dist-bhadohi", "district_name": "Bhadohi", "division_id": "up-div-mirzapur" },
+    { "district_id": "up-dist-mirzapur", "district_name": "Mirzapur", "division_id": "up-div-mirzapur" },
+    { "district_id": "up-dist-sonbhadra", "district_name": "Sonbhadra", "division_id": "up-div-mirzapur" },
+
+    { "district_id": "up-dist-amroha", "district_name": "Amroha", "division_id": "up-div-moradabad" },
+    { "district_id": "up-dist-bijnor", "district_name": "Bijnor", "division_id": "up-div-moradabad" },
+    { "district_id": "up-dist-moradabad", "district_name": "Moradabad", "division_id": "up-div-moradabad" },
+    { "district_id": "up-dist-rampur", "district_name": "Rampur", "division_id": "up-div-moradabad" },
+    { "district_id": "up-dist-sambhal", "district_name": "Sambhal", "division_id": "up-div-moradabad" },
+
+    { "district_id": "up-dist-muzaffarnagar", "district_name": "Muzaffarnagar", "division_id": "up-div-saharanpur" },
+    { "district_id": "up-dist-saharanpur", "district_name": "Saharanpur", "division_id": "up-div-saharanpur" },
+    { "district_id": "up-dist-shamli", "district_name": "Shamli", "division_id": "up-div-saharanpur" },
+
+    { "district_id": "up-dist-chandauli", "district_name": "Chandauli", "division_id": "up-div-varanasi" },
+    { "district_id": "up-dist-ghazipur", "district_name": "Ghazipur", "division_id": "up-div-varanasi" },
+    { "district_id": "up-dist-jaunpur", "district_name": "Jaunpur", "division_id": "up-div-varanasi" },
+    { "district_id": "up-dist-varanasi", "district_name": "Varanasi", "division_id": "up-div-varanasi" }
+  ]
+}
 
