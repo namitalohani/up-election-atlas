@@ -1,0 +1,47 @@
+{
+  "constituency_id": "001-behat",
+  "generated_at": "2026-07-04T00:00:00Z",
+  "generated_by": "Seat Builder Agent v2",
+
+  "identity": {
+    "seat_name": { "value": "Behat", "source_id": "src-01", "retrieved_date": "2026-07-04", "confidence": 0.85, "is_outdated": false, "notes": "Secondary compilation citing ECI; not fetched directly from eci.gov.in." },
+    "seat_number": { "value": 1, "source_id": "src-01", "retrieved_date": "2026-07-04", "confidence": 0.85, "is_outdated": false, "notes": null },
+    "district": { "value": "Saharanpur", "source_id": "src-01", "retrieved_date": "2026-07-04", "confidence": 0.85, "is_outdated": false, "notes": null },
+    "division": { "value": null, "source_id": null, "retrieved_date": "2026-07-04", "confidence": 0.0, "is_outdated": false, "notes": "Not found." },
+    "region": { "value": null, "source_id": null, "retrieved_date": "2026-07-04", "confidence": 0.0, "is_outdated": false, "notes": "No seat-specific source confirming standard UP regional classification was found; not inferred." },
+    "lok_sabha_constituency": { "value": "Saharanpur", "source_id": "src-01", "retrieved_date": "2026-07-04", "confidence": 0.85, "is_outdated": false, "notes": "One of five ACs within Saharanpur Lok Sabha constituency." },
+    "reservation": { "value": "General", "source_id": "src-04", "retrieved_date": "2026-07-04", "confidence": 0.7, "is_outdated": false, "notes": null },
+    "delimitation_year": { "value": 2008, "source_id": "src-01", "retrieved_date": "2026-07-04", "confidence": 0.85, "is_outdated": false, "notes": "Created under the Delimitation of Parliamentary and Assembly Constituencies Order, 2008; previously part of the now-defunct Muzaffarabad constituency." },
+    "current_mla": { "value": "Umar Ali Khan", "source_id": "src-09", "retrieved_date": "2026-07-04", "confidence": 0.85, "is_outdated": false, "notes": "MLA since March 2022; previously served as an MLC." },
+    "current_party": { "value": "Samajwadi Party", "source_id": "src-09", "retrieved_date": "2026-07-04", "confidence": 0.85, "is_outdated": false, "notes": null },
+    "swing_seat": { "value": null, "source_id": null, "retrieved_date": "2026-07-04", "confidence": 0.0, "is_outdated": false, "notes": "This is a derived/inferred classification, not a directly sourced fact â per rule 6, inference belongs only in analysis.json, which was not requested this run. Left null here rather than leaked in." },
+    "hot_seat": { "value": null, "source_id": null, "confidence": 0.0, "notes": "No independent designation located." },
+    "vip_seat": { "value": null, "source_id": null, "confidence": 0.0, "notes": "Not found." },
+    "latitude": { "value": null, "source_id": null, "confidence": 0.0, "notes": "Not found." },
+    "longitude": { "value": null, "source_id": null, "confidence": 0.0, "notes": "Not found." }
+  },
+
+  "electoral_roll": {
+    "total_electors": [
+      { "value": 303273, "election_year": 2012, "source_id": "src-06", "retrieved_date": "2026-07-04", "confidence": 0.75, "is_outdated": false, "notes": null },
+      { "value": 336576, "election_year": 2017, "source_id": "src-06", "retrieved_date": "2026-07-04", "confidence": 0.75, "is_outdated": false, "notes": null },
+      { "value": null, "election_year": 2022, "source_id": null, "retrieved_date": "2026-07-04", "confidence": 0.0, "is_outdated": false, "notes": "2022 electoral roll total not located in directly citable form; not computed from turnout/vote totals per no-inference rule." }
+    ],
+    "male_electors": { "value": 164139, "as_of": "likely 2012 roll", "source_id": "src-07", "retrieved_date": "2026-07-04", "confidence": 0.5, "is_outdated": true, "notes": "Source reports this as 'registered voters' without a stated roll date; inferred likely 2012 only because it co-appears with the total 303,273 figure â flagged as lower confidence for that reason." },
+    "female_electors": { "value": 139133, "as_of": "likely 2012 roll", "source_id": "src-07", "retrieved_date": "2026-07-04", "confidence": 0.5, "is_outdated": true, "notes": "Same caveat as male_electors." },
+    "third_gender_electors": { "value": null, "source_id": null, "confidence": 0.0, "notes": "Not found." },
+    "youth_electors_18_29": { "value": null, "source_id": null, "confidence": 0.0, "notes": "Not found." },
+    "first_time_voters": { "value": null, "source_id": null, "confidence": 0.0, "notes": "Not found." },
+    "booths": { "value": null, "source_id": null, "confidence": 0.0, "notes": "Not distinguished from polling_stations in any source found." },
+    "polling_stations": { "value": 439, "as_of": "2022 Assembly election", "source_id": "src-08", "retrieved_date": "2026-07-04", "confidence": 0.5, "is_outdated": false, "notes": "Commercial aggregator, not independently verified against ECI." }
+  },
+
+  "sources": [
+    { "id": "src-01", "title": "Behat Assembly constituency", "publisher": "Wikipedia (secondary compilation)", "url": "https://en.wikipedia.org/wiki/Behat_Assembly_constituency", "retrieved_date": "2026-07-04", "source_type": "official-secondary", "reliability_tier": 2 },
+    { "id": "src-04", "title": "Behat Assembly Constituency Election Result 2022", "publisher": "Elections.in", "url": "https://www.elections.in/uttar-pradesh/assembly-constituencies/behat.html", "retrieved_date": "2026-07-04", "source_type": "election-data aggregator", "reliability_tier": 3 },
+    { "id": "src-06", "title": "Behat Assembly Constituency Election Result", "publisher": "ResultUniversity.com", "url": "https://resultuniversity.com/election/behat-uttar-pradesh-assembly-constituency", "retrieved_date": "2026-07-04", "source_type": "election-data aggregator", "reliability_tier": 3 },
+    { "id": "src-07", "title": "Behat Assembly Constituency Election Result 2022 (gender-split registered voters)", "publisher": "Elections.in", "url": "https://www.elections.in/uttar-pradesh/assembly-constituencies/behat.html", "retrieved_date": "2026-07-04", "source_type": "election-data aggregator", "reliability_tier": 3 },
+    { "id": "src-08", "title": "Behat Assembly Constituency Details", "publisher": "ConnectPeople.in", "url": "http://connectpeople.in/assembly-details/uttarpradesh/behat/", "retrieved_date": "2026-07-04", "source_type": "commercial-aggregator", "reliability_tier": 3 },
+    { "id": "src-09", "title": "Umar Ali Khan", "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Umar_Ali_Khan", "retrieved_date": "2026-07-04", "source_type": "biographical-secondary", "reliability_tier": 3 }
+  ]
+}
